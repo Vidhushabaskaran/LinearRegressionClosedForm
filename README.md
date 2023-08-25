@@ -66,4 +66,4 @@ python3 line_fitting_closed_form_solution.py
 
 Interactively add points to the plot using mouse! and see the updated best linear fit.
 
-![Alt Text](/LinearRegressionClosedForm/asset.gif)
+![Alt Text](/asset.gif)
