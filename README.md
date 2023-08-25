@@ -1,8 +1,8 @@
 # Linear regression closed-form
 
-
 The closed-form solution for linear regression is a mathematical approach that determines the best coefficients (slope and intercept) of a linear model directly. By identifying the values that reduce the sum of squared residuals, it reduces the discrepancy between actual and anticipated values. Due to matrix inversion, this method can be computationally expensive for bigger datasets even if it is effective for small to moderate-sized datasets.
 
+![Alt Text](/asset.gif)
 
 ### Input dataset
 
@@ -65,5 +65,3 @@ python3 line_fitting_closed_form_solution.py
 ```
 
 Interactively add points to the plot using mouse! and see the updated best linear fit.
-
-![Alt Text](/asset.gif)
